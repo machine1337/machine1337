@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying Computer Science in **[University](https://uetmardan.edu.pk)**
+- 🔭 I’m currently studying Computer Science in **[UET](https://uetmardan.edu.pk)**
 
 - 🌱 I’m currently learning **API Testing & Malware Analysis**
 
