@@ -66,6 +66,8 @@
 <a href = "https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+##### <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/machine1337/count.svg)
 
 ## ❤  Followers: 
 
