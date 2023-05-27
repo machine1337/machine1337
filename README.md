@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Machine1337</h1>
-<h3 align="center">I'm a passionate Bug Bounty Hunter & Penetration Tester.</h3>
+<h3 align="center">I'm a passionate Red Teamer, Offensive Developer & Penetration Tester.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying Computer Science in **[UNIVERSITY](link)**
+- 🔭 RED TEAMER, PENETRATION TESTER, OFFENSIVE DEVELOPER**
 
 - 🌱 I’m currently learning **API Testing & Malware Analysis**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/machine1337)**
 
-- 📫 How to reach me **machine1337@protonmail.com**
+- 📫 How to reach me **Telegram:- [@R0ot1337](https://t.me/R0ot1337)**
 
 - ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
 
