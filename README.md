@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/machine1337)**
 
-- 📫 How to reach me **Telegram:- [@R0ot1337](https://t.me/R0ot1337)**
+- 📫 How to reach me **Telegram:- [@whoami502](https://t.me/whoami502)**
 
 - ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
 
